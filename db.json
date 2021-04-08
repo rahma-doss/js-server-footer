@@ -2,9 +2,9 @@
 "themeOneFooterSection": {
         "image": "/img/logo-perdrix.png",
         "text": "Perdrix est une application aidant les jeunes à concilier le travail et les études.",
-        "linkText_1": "Useful Links",
-        "linkText_2": "Product Help",
-        "linkText_3": "Download",
+        "linkText_1": "Liens utiless",
+        "linkText_2": "Aide produit",
+        "linkText_3": "Télécharger",
         "iconList": [
             {
                 "id": 1,

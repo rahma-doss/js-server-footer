@@ -8,8 +8,9 @@
         "iconList": [
             {
                 "id": 1,
-                "link": "www.facebook.com",
-                "iconClass": "fab fa-facebook-f"
+                "link": "facebook",
+                "iconClass": "fab fa-facebook-f",
+                 "linkUrl": " www.facebook.com"
             },
             {
                 "id": 2,

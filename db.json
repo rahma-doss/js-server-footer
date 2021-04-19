@@ -19,12 +19,12 @@
             },
             {
                 "id": 3,
-                "link": "google-plus",
+                "link": "instagram",
                 "iconClass": "fab fa-instagram"
             },
             {
                 "id": 4,
-                "link": "vine",
+                "link": "linkedin",
                 "iconClass": "fab fa-linkedin"
             }
         ],
